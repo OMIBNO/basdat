@@ -138,7 +138,7 @@ CREATE TABLE `karyawan` (
 --
 
 INSERT INTO `karyawan` (`id_karyawan`, `nama`, `tanggal_mulai_kerja`, `email`, `nomor_telepon`, `alamat`, `kota`, `provinsi`, `kode_pos`, `id_departemen`) VALUES
-(1, 'Raihan Wiraseno', '2021-01-15', 'omibno22@gmail.com', '0812284142', 'Jl. Griyasaka No.27A', 'Jakarta', 'DKI Jakarta', '10983', 2),
+(1, 'Reihan Prasetya', '2021-01-15', 'omibno22@gmail.com', '0812284142', 'Jl. Bijaksana No. 1', 'Jakarta', 'DKI Jakarta', '10983', 2),
 (2, 'Yudi Wibowo', '2020-05-20', 'yudii2@gmail.com', '00888514', 'Jl. Bromo No. 2', 'Jakarta', 'DKI Jakarta', '51525', 2),
 (3, 'Zev Hadid Santoso', '2022-05-10', 'sussybaka@gmail.com', '081241824', 'Jl. Biknss No. 1', 'Jakarta', 'Jawa Barat', '12323', 3),
 (4, 'Muhammad Algifahri', '2022-10-20', 'rimzzz@gmail.com', '084124792', 'Jl. Germanyy No. 3', 'Jakarta', 'Jawa Barat', '10000', 3);
@@ -172,8 +172,8 @@ INSERT INTO `pelanggan` (`id_pelanggan`, `nama`, `email`, `nomor_telepon`, `alam
 (5, 'Doni Saputra', 'doni@example.com', '0833333333', 'Jl. Anggrek No. 9', 'Semarang', 'Jawa Tengah', '50211'),
 (6, 'Lina Marlina', 'lina@example.com', '0844444444', 'Jl. Melur No. 6', 'Yogyakarta', 'DI Yogyakarta', '55111'),
 (7, 'Rudi Hartono', 'rudi@example.com', '0855555555', 'Jl. Dahlia No. 10', 'Makassar', 'Sulawesi Selatan', '90123'),
-(8, 'Galih Prasetya', 'galihp@example.com', '081278456789', 'Jl. Angsana No. 15', 'Bekasi', 'Jawa Barat', '17142'),
-(9, 'Fajar Kurniawan', 'fajar.k@example.com', '081312345678', 'Jl. Sukamaju No. 20', 'Bogor', 'Jawa Barat', '16120'),
+(8, 'Galih Prasetya', 'galihp@example.com', '535351351', 'Jl. Angsana No. 15', 'Bekasi', 'Jawa Barat', '17142'),
+(9, 'Fajar Kurniawan', 'fajar.k@example.com', '7277547', 'Jl. Sukamaju No. 20', 'Bogor', 'Jawa Barat', '16120'),
 (10, 'Dewi Lestari', 'dewi.l@example.com', '085798765432', 'Jl. Damai Sejahtera No. 5', 'Depok', 'Jawa Barat', '16410'),
 (11, 'Hari Susanto', 'hari.s@example.com', '087811223344', 'Jl. Cendrawasih No. 12', 'Tangerang', 'Banten', '15130'),
 (12, 'Nina Adelia', 'nina.a@example.com', '081900001111', 'Jl. Kembang Sepatu No. 7', 'Bekasi', 'Jawa Barat', '17145'),
